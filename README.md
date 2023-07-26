@@ -7,8 +7,7 @@
 
 [image](https://github.com/RomiOlaeta/RomiOlaeta/assets/113724968/b144c9dd-b50c-4662-827d-b45da794e216)
 
-
-<img align="center" src="https://github.com/RomiOlaeta/RomiOlaeta/assets/113724968/c4683afc-f157-4f37-8a1e-056537210f5e">    
+ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
