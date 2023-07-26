@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-src="https://github.com/RomiOlaeta/RomiOlaeta/assets/113724968/c4683afc-f157-4f37-8a1e-056537210f5e"
+img="https://github.com/RomiOlaeta/RomiOlaeta/assets/113724968/c4683afc-f157-4f37-8a1e-056537210f5e"
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
