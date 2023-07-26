@@ -6,7 +6,6 @@
 </h1>
 
 <img align="center" src="https://github.com/RomiOlaeta/RomiOlaeta/assets/113724968/c4683afc-f157-4f37-8a1e-056537210f5e">   
-**RomiOlaeta/RomiOlaeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
