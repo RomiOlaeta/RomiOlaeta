@@ -5,9 +5,7 @@
   </a>
 </h1>
 
-<img align="center" src="https://github.com/RomiOlaeta/RomiOlaeta/assets/113724968/c4683afc-f157-4f37-8a1e-056537210f5e">   
-
-Here are some ideas to get you started:
+src="https://github.com/RomiOlaeta/RomiOlaeta/assets/113724968/c4683afc-f157-4f37-8a1e-056537210f5e" alt="Imagen centrada"
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
