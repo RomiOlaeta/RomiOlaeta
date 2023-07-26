@@ -1,5 +1,11 @@
 ### Hi there 👋
+<h1 align="center">
+  <a href="https://github.com/haticedagli">
+    <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
+  </a>
+</h1>
 
+<img align="center" src="https://github.com/RomiOlaeta/RomiOlaeta/assets/113724968/c4683afc-f157-4f37-8a1e-056537210f5e">    centrar ka imagen
 <!--
 **RomiOlaeta/RomiOlaeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
