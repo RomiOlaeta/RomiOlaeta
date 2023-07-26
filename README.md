@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
   </a>
 </h1>!
-<div style="position: relative; text-align: center;">
+<p align="center">
 <img src=https://github.com/RomiOlaeta/RomiOlaeta/assets/113724968/b144c9dd-b50c-4662-827d-b45da794e216>
-</div>
+</p>
  
 
 - 🔭 I’m currently working on ...
