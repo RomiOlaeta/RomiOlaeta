@@ -30,18 +30,18 @@
 ### Testing Documentation
 
 - checklist
-- [Test-Suites and Test-Cases](https://github.com/miketaran/test-cases)
-- [Bug-Reports](https://github.com/miketaran/bug-reports)
-- [Test Plan](https://github.com/MikeTaran/testplan)
-- [SQL Queries](https://github.com/miketaran/SQL)
+- Test-Suites and Test-Cases
+- Bug-Reports
+- Test Plan
+- SQL Queries
 -
 
 ---
 
 ### QA Automation
 
-- [Selenium IDE](https://github.com/MikeTaran/selenium_ide)
-- [Cypress](https://github.com/MikeTaran/Cypress)
+- Selenium IDE
+- Cypress
 
 ---
 - 🔭 I’m currently working on ...
