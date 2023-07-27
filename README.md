@@ -29,7 +29,7 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/miketaran/checklist)
+- checklist
 - [Test-Suites and Test-Cases](https://github.com/miketaran/test-cases)
 - [Bug-Reports](https://github.com/miketaran/bug-reports)
 - [Test Plan](https://github.com/MikeTaran/testplan)
