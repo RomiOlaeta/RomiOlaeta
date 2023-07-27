@@ -45,7 +45,7 @@
 
 ---
 - 🔭 I’m currently working at Accenture
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning automated tools
 - 👯 I’m looking to collaborate on anything related to QA
 - 📫 How to reach me: romiolaeta1506@gmail.com
 - 😄 Pronouns: She/Her
