@@ -46,8 +46,7 @@
 ---
 - 🔭 I’m currently working at Accenture
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on anything related to QA
 - 📫 How to reach me: romiolaeta1506@gmail.com
 - 😄 Pronouns: She/Her
 - ⭐ Fun fact: I love coding and my favorite programming language is Python
