@@ -50,5 +50,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: romiolaeta1506@gmail.com
 - 😄 Pronouns: She/Her
-
+- ⭐ Fun fact: I love coding and my favorite programming language is Python
 -->
